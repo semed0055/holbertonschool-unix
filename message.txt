@@ -1,1 +1,2 @@
-Combined message: main and feature
+Message from main branch
+Message from feature branch
